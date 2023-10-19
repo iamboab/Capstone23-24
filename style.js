@@ -9,3 +9,13 @@ function startTime() {
     setTimeout(startTime, 1000);
 }
 startTime();
+
+function myFunction() {
+    document.getElementById("color_changer").style.color = "red";
+  }
+
+function mouseOver() {
+    img.src="https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Featherknight_Pengu_Tier_3.png/revision/latest?cb=20211004163717"
+    
+    
+}
